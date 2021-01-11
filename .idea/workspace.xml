@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="69e08d56-2c75-4b5c-9d8b-1ceeee40fb97" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrpts/hangman.js" beforeDir="false" afterPath="$PROJECT_DIR$/scrpts/hangman.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DrumKit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -51,6 +53,9 @@
       <updated>1609775793802</updated>
       <workItem from="1609775795256" duration="4700000" />
       <workItem from="1609864771510" duration="6202000" />
+      <workItem from="1609875366930" duration="2425000" />
+      <workItem from="1610299445101" duration="552000" />
+      <workItem from="1610363463410" duration="594000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1609775968582</created>
@@ -87,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609874766898</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3rd commit">
+      <created>1609875505830</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609875505830</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +122,7 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="hangman.js commit" />
     <MESSAGE value="hangman.css commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="hangman.css commit" />
+    <MESSAGE value="3rd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd commit" />
   </component>
 </project>
