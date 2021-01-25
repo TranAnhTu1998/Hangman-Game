@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="69e08d56-2c75-4b5c-9d8b-1ceeee40fb97" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrpts/hangman.js" beforeDir="false" afterPath="$PROJECT_DIR$/scrpts/hangman.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <workItem from="1609864771510" duration="6202000" />
       <workItem from="1609875366930" duration="2425000" />
       <workItem from="1610299445101" duration="552000" />
-      <workItem from="1610363463410" duration="594000" />
+      <workItem from="1610363463410" duration="1925000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1609775968582</created>
@@ -99,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609875505830</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="last commit.">
+      <created>1610365125576</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610365125576</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +128,7 @@
     <MESSAGE value="hangman.js commit" />
     <MESSAGE value="hangman.css commit" />
     <MESSAGE value="3rd commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd commit" />
+    <MESSAGE value="last commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="last commit." />
   </component>
 </project>
